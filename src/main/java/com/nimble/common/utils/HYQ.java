@@ -1,7 +1,9 @@
-package com.likeep.nimble.common.constants;
+package com.nimble.common.utils;
 
-public class HYQ1 {
+public class HYQ {
     public static void test(){
         System.out.println("HYQ");
     }
+
+
 }

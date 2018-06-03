@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.nimble</groupId>
-	<artifactId>nimble-common</artifactId>
+	<artifactId>common</artifactId>
 	<version>${project_version}</version>
 	<packaging>jar</packaging>
 
@@ -46,6 +46,14 @@
 			<url>http://39.108.106.227:8888/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
+
+	<dependencies>
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.4</version>
+		</dependency>
+	</dependencies>
 
 	<build>
 		<plugins>

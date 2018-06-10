@@ -1,7 +1,7 @@
-package com.nimble.common.exception;
+package com.nimble.base.exception;
 
 
-import com.nimble.common.constants.responseCode.ResponseCodeInterface;
+import com.nimble.base.constants.responseCode.ResponseCodeInterface;
 
 public class BaseException extends RuntimeException {
 

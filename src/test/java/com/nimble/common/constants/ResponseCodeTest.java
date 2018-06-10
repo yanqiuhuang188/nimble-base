@@ -1,7 +1,6 @@
 package com.nimble.common.constants;
-
-import com.nimble.common.constants.responseCode.FrameResponseCode;
-import com.nimble.common.exception.BaseException;
+import com.nimble.base.constants.responseCode.FrameResponseCode;
+import com.nimble.base.exception.BaseException;
 import org.junit.Test;
 
 public class ResponseCodeTest {

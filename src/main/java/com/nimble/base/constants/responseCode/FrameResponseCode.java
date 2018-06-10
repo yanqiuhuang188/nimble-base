@@ -1,5 +1,4 @@
-package com.nimble.common.constants.responseCode;
-
+package com.nimble.base.constants.responseCode;
 
 /**
  * system error level response code
